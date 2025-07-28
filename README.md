@@ -1,4 +1,4 @@
-*****IMPORTANT******
+*****IMPORTANT*****:
 If anything is going wrong with the program, click the terminal icon at bottom
 of screen (looks like black square with >_ inside) and press crtl+c. This
 will exit program immediately!
@@ -36,7 +36,7 @@ Optional:
 
 7. Follow on-screen prompts
 
-*****IMPORTANT******
+*****IMPORTANT*****:
 If anything is going wrong with the program, click the terminal icon at bottom
 of screen (looks like black square with >_ inside) and press crtl+c. This
 will exit program immediately!

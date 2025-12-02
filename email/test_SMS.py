@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 email = "brantgarnes442@gmail.com"
-pas = "REDACTED"
+pas = ""
 
 sms_gateway = '9199248442@vtext.com'
 # The server we use to send emails in our case it will be gmail but every email provider has a different smtp 
